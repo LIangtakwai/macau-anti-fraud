@@ -14,7 +14,6 @@ import {
   ShieldEllipsis,
   ShieldQuestion,
   Siren,
-  UserRoundSearch,
   WalletCards,
 } from 'lucide-react'
 import SectionTitle from './SectionTitle'

@@ -21,8 +21,8 @@ import {
 import {
   caseCategories,
   caseStudiesV2,
-  type CaseCategory,
   type CaseCategoryId,
+  type CaseStudyV2,
 } from '../data/caseLibrary'
 
 const toneChip: Record<CaseCategory['tone'], string> = {
